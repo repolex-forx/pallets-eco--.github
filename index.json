@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "aa505cc7eacd230c344519e739120bef27b1dbce",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:11:20.382751+00:00"
+    }
+  ]
+}
