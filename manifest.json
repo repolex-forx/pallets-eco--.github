@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "aa505cc7eacd230c344519e739120bef27b1dbce",
+      "parsed_at": "2026-10-11T09:09:21.435109+00:00",
+      "filetree": "filetree/aa505cc7eacd230c344519e739120bef27b1dbce.nq.gz",
+      "blobs": [
+        "blob/01946040621943c6309a9584fe13ab33b7125537.nq.gz",
+        "blob/17cd6bed3c0392591e65e57162f8203094d98097.nq.gz",
+        "blob/31954510b7067fc761286583173a0bdaf03f066a.nq.gz",
+        "blob/8a2eda34304fa14e1cc3d1ae4ee94d1dfc65df49.nq.gz",
+        "blob/a51ce41a726db60f4ef8b0252c79dbf542e09485.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
