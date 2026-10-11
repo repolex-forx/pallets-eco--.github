@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/.github/commit/aa505cc7eacd230c344519e739120bef27b1dbce",
       "git:hexsha": "aa505cc7eacd230c344519e739120bef27b1dbce",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T09:11:20.382265+00:00"
     }
   ]
 }
